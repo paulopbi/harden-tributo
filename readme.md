@@ -9,7 +9,8 @@
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/paulopbi/">Linkedin</a> -
 <a target="_blank" href="https://github.com/Paulpbi">Github</a> -
-<a target="_blank" href="https://www.instagram.com/paulopbi_/">Instagram</a>
+<a target="_blank" href="https://www.instagram.com/paulopbi_/">Instagram</a> -
+<a target="_blank" href="https://paulpbi.github.io/harden-tributo/">Página Completa</a>
 </p>
 
 <br>
