@@ -1,16 +1,16 @@
 # Tributo ao James "Edward" Harden
 
-<center> 
+<p align="center">
 <img src="./assets/thumb.png" width="450px" heigh="450px" > 
-</center>
+</p>
 
 <br>
 
-<center>
-<a target="_blank" src="https://www.linkedin.com/in/paulopbi/">Linkedin</a> -
-<a target="_blank" src="https://github.com/Paulpbi">Github</a> -
-<a target="_blank" src="https://www.instagram.com/paulopbi_/">Instagram</a>
-</center>
+<p align="center">
+<a target="_blank" href="https://www.linkedin.com/in/paulopbi/">Linkedin</a> -
+<a target="_blank" href="https://github.com/Paulpbi">Github</a> -
+<a target="_blank" href="https://www.instagram.com/paulopbi_/">Instagram</a>
+</p>
 
 <br>
 
@@ -33,7 +33,7 @@ Esse projeto é uma landing page de "tributo" ao meu jogador de basquete preferi
 - Css
 - Flexbox
 - Responsividade
-<br><br>
+  <br><br>
 
 <center>
 OBRIGADO POR VER MEU PROJETO
